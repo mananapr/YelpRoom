@@ -7,6 +7,6 @@ YelpRoom is a simple webapp which enables users to do the following:
 
 ## Usage
 Clone the repo and install the dependencies:
-    git clone https://github.com/mananapr/YelpRoom
-    cd YelpRoom
-    npm install
+`git clone https://github.com/mananapr/YelpRoom`
+`cd YelpRoom`
+`npm install`
